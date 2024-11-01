@@ -1,0 +1,13 @@
+
+
+form.single-mailchimp-form div.alert{
+	display: none;
+}
+
+form.single-mailchimp-form .form-group{
+	margin-bottom: 5px;
+}
+
+form.single-mailchimp-form .alert{
+	margin-top: 20px;
+}
